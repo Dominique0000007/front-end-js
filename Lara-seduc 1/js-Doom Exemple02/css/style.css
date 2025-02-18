@@ -1,0 +1,22 @@
+body{
+  font-family: sans-serif;  
+  margin: 20px;
+}
+
+ul{
+    list-style: disc;
+}
+
+input[type="text"]{
+    padding: 8px;
+    margin-right: 10px;
+}
+
+button{
+    padding:  8px 12px;
+    background-color: cadetblue;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}

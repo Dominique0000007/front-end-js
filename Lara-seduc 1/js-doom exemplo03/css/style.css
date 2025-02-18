@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#mensagem{
+    padding: 20px;
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.oculto{
+ display: none;
+}
+
+button{
+ padding: 10px 20px;
+ background: rgb(50, 99, 168);
+ color: white;
+ border:  none;
+ cursor: pointer;
+ border-radius: 5px;
+}
